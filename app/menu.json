@@ -1,0 +1,11 @@
+{
+  "business": "Demo Pide",
+  "currency": "TL",
+  "delivery_note": "Teslimat 30-40 dk, minimum sepet yok.",
+  "items": [
+    { "id": "kiymali-pide", "name": "Kıymalı Pide", "price": 180 },
+    { "id": "kasarli-pide", "name": "Kaşarlı Pide", "price": 170 },
+    { "id": "lahmacun", "name": "Lahmacun", "price": 90 },
+    { "id": "ayran", "name": "Ayran", "price": 30 }
+  ]
+}
